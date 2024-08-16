@@ -39,5 +39,12 @@ The proposed all-in-one scene recovery network generalizes well to underwater im
 
 ## Citation
 
-```
-Continue Update
+@article{lu2024aosrnet,
+  title={AoSRNet: All-in-One Scene Recovery Networks via multi-knowledge integration},
+  author={Lu, Yuxu and Yang, Dong and Gao, Yuan and Liu, Ryan Wen and Liu, Jun and Guo, Yu},
+  journal={Knowledge-Based Systems},
+  volume={294},
+  pages={111786},
+  year={2024},
+  publisher={Elsevier}
+}
