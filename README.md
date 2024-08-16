@@ -24,7 +24,11 @@
 ![Image](images/Network.jpg)
 
 ## Test
-The pre-trained model will be provided after the paper is accpeted.
+* Place the pre-training weight in the `checkpoint` folder.
+* Place test low-visibility images in the `input` folder.
+* Modify the weight name in the `test_demo.py`.<br>
+* Run `test_demo.py`
+* The results are saved in `output` folder.
 
 ## Visual Results on Synthetic Images
 ![Image](images/Figure_Syn.jpg)
